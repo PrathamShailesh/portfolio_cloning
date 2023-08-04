@@ -1,0 +1,175 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.heading {
+    /* border: 1px solid rgb(0, 0, 0); */
+    display: flex;
+    padding: 50px;
+    
+    justify-content: space-evenly;
+    margin-right: 100px;
+}
+
+
+
+nav a {
+    text-decoration: none;
+    color: rgb(231, 102, 102);
+    font-size: 30px;
+    
+    
+   
+}
+nav a:hover{
+    color: yellow;
+}
+
+.box{
+    width:500px;
+    height: 600px;
+    background-color:greenyellow;
+    border-radius: 0px 0px 50px 0px;
+    position: absolute;
+    right: 10px;
+    top:0px;
+    z-index:-1;
+}
+.para div{
+     display: flex;
+    justify-content: space-around;
+    
+    
+}
+.para img {
+    /* border: 1px solid rgb(94, 15, 222); */
+    margin-right: 100px;
+    width: 440px;
+    height: auto;
+    width: 300px 200px;
+    
+    
+}
+.para h2{
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+.para div p{
+    margin-left: 60px;
+}
+.para{
+    margin-top: 100px;
+}
+    
+.sb{
+   font-size: 35px;
+   background-color: greenyellow;
+   display:inline-block;
+   color: aliceblue;
+   padding: 0px 10px 0px 10px;
+   display: inline-block;
+   height: 80px 0px ;
+   margin-left: 60px;
+   border-radius: 20px;
+   block-size: 90px;
+   
+}
+.hustle img{
+    position: relative;
+    bottom: 400px;
+    z-index: -1;
+    ;
+}
+.hustle h4{
+    margin-left: 150px;
+    font-weight: 900px;
+    
+}
+.hustle{
+    display:inline;
+}
+
+.merge{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 400px;
+}
+.work {
+    text-align: center;
+    font-size: 20px;
+}
+.lst{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.side h3{
+    margin-left: 100px;
+    margin-top: 300px;
+    margin-bottom: 20px;
+
+}
+.side p{
+    margin-left: 100px;
+    
+    
+}
+.contact{
+    display: flex;
+    background-color: rgb(55, 184, 55);
+    margin-right: 800px;
+
+}
+.contact a{
+text-align: center;
+}
+.side{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+
+/* finished till lets talk */
+
+
+
+
+/* .para {
+   
+}
+
+
+
+/* color: red;
+    /* display: flex; */
+/* text-align: left; */
+
+
+
+/* 
+
+#ctr {
+    text-align: center;
+    color: greenyellow;
+}
+
+#ctr2 {
+    text-align: center;
+    font-size: 20;
+}
+
+#ctr3 {
+    text-align: center;
+    font-size: 20;
+}
+
+
+
+footer {
+    background-color: #11b14c;
+    color: #aeb3af;
+    text-align: left;
+    padding: 1rem;
+
+} */ */
